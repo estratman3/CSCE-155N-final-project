@@ -17,5 +17,5 @@ ylim ([0 1]);
 % axis labels
 title('Powertrain Propulsion Efficiency');
 xlabel('Power (kW)');
-ylabel('Efficiency');
+ylabel('Efficiency)');
 end
